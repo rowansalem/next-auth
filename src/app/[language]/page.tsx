@@ -37,7 +37,7 @@ export default async function Home({ params }: Props) {
                   key="1"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://github.com/rowansalem/user-crud/blob/main/README.md"
+                  href="https://github.com/rowansalem/next-auth/blob/main/README.md"
                 >
                   {}
                 </MuiLink>,
@@ -49,3 +49,4 @@ export default async function Home({ params }: Props) {
     </Container>
   );
 }
+

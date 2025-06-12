@@ -4,6 +4,16 @@ A full-featured user management/admin panel built with Next.js 14, Material-UI (
 
 ---
 
+## Backend API
+
+This project requires a backend API. You can find the recommended backend implementation (NestJS) here:
+
+👉 [NestJS Auth Backend Repository](https://github.com/rowansalem/nest-auth)
+
+Please follow the backend's README for setup and API documentation.
+
+---
+
 ## Features
 
 - **User Authentication**
@@ -132,7 +142,6 @@ client/
 
 - ESLint is configured with Next.js core web vitals.
 - Husky runs `npm run lint` before every commit.
-
 
 ---
 
